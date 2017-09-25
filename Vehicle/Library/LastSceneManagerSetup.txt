@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sportbike_pro_kit/u5bike_JS.unity
+  isLoaded: 1
+  isActive: 1
